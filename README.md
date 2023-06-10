@@ -1,8 +1,4 @@
-### Hi there 👋
-
 ### 自我介绍
-
-<div><img align="right" alt="GIF" src="https://s1.xptou.com/2022/09/12/631f3e79ece3d.webp" width="300" height="100%" /></div>
 
 - 大家好，我是黑兔小九
 - 欢迎光临我的Github 🍧
@@ -19,14 +15,10 @@
 ![Git](https://img.shields.io/badge/-Git-%23ED5A47?style=flat&logo=git&logoColor=%23ffffff)
 ![VS Code](https://img.shields.io/badge/-VSCode-%230066B8?style=flat&logo=visual-studio-code)
 
-### 编程语言
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Siriusyyw&langs_count=6&theme=tokyonight)
+|   Github 状态图   |   编程语言   |
+| ---- | ---- |
+|   ![Siriusyyw's github stats](https://github-readme-stats.vercel.app/api?username=Siriusyyw&show_icons=true&theme=tokyonight)   |    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Siriusyyw&langs_count=6&theme=tokyonight)  |
 
-### Github 状态图
-![Siriusyyw's github stats](https://github-readme-stats.vercel.app/api?username=Siriusyyw&show_icons=true&theme=tokyonight)
-
-### Github 贡献图
-[![Siriusyyw's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Siriusyyw&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br>
 
